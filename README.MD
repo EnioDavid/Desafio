@@ -1,7 +1,5 @@
 #Desafio
 
-
-Para executar o script, siga as instruções abaixo.
-Execute o script com python3 script.py
+Execute o script com python3 script.py.
 Inclua o nome do arquivo de log corretamente e pressione enter.
-O arquivo de log precisa está no mesmo local do script
+O arquivo de log precisa está no mesmo local do script.
